@@ -1,0 +1,17 @@
+textarea {
+    min-height: 200px;
+}
+
+.email_container{
+border:1px solid black;
+padding:6px;
+}
+.blue-font{
+color:blue;
+}
+
+
+li{
+
+display:inline;
+}
